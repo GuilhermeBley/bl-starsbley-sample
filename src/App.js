@@ -387,7 +387,7 @@ function App() {
             <div className="row">
               <div className="col-md-12">
                 <div className="copyright-content">
-                  <p>Copyright © 2023 Star's Bley Tapeçaria. Todos os direitos reservados.</p>
+                  <p>Copyright © 2025 Star's Bley Tapeçaria. Todos os direitos reservados.</p>
                 </div>
               </div>
             </div>
