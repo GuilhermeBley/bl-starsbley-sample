@@ -2,4 +2,4 @@
 
 Landing page with zero cost made with React, this web-site was published into azure in the free-tier.
 
-![starsbley-sample](https://github.com/user-attachments/assets/89f5ceec-b1c3-4e81-b56d-ee223fe0bd2d)
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/d67f62dc-ecb9-47bb-918c-49b114561f8d)
